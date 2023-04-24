@@ -4,7 +4,7 @@ Seja bem-vindo ao GitHub do nosso projeto, concebido no Programa K!
 
 Nestes [repositórios](https://github.com/orgs/Projeto-Frutas-Vegetais-Programa-K/repositories), vamos te apresentar nossa ideia e a(s) maneira(s) como ela foi abordada.
 
-Se tiver quaisquer dúvidas ou curiosidades, não hesite em entrar em [contato](https://github.com/Projeto-Frutas-Vegetais-Programa-K/.github/blob/main/profile/README.md#contato)
+Se tiver quaisquer dúvidas ou curiosidades, não hesite em entrar em [contato](https://github.com/Projeto-Frutas-Vegetais-Programa-K/.github/blob/main/profile/README.md#contato).
 
 ## Surge uma ideia...
 
@@ -70,7 +70,7 @@ Se deseja iniciar na Inception, siga para o repositório: [Frutas-Vegetais-Incep
 
 ### Resultados
 
-Um resumo dos principais materiais produzidos nesses passos se encontra no [site do Programa K](https://www.programak.info)
+Um resumo dos principais materiais produzidos nesses passos se encontra no [site do Programa K](https://www.programak.info).
 
 Além disso, o resultado do aplicativo inicial pode ser encontrado neste [repositório](https://github.com/Projeto-Frutas-Vegetais-Programa-K/picky).
 
