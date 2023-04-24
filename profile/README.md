@@ -1,6 +1,8 @@
 # Auxílio na tomada de decisão no processo de compra de frutas e vegetais
 
-Seja bem-vindo ao GitHub do nosso projeto, concebido no Programa K! Nestes [repositórios](https://github.com/orgs/Projeto-Frutas-Vegetais-Programa-K/repositories), vamos te apresentar nossa ideia e a(s) maneira(s) como ela foi abordada.
+Seja bem-vindo ao GitHub do nosso projeto, concebido no Programa K! 
+
+Nestes [repositórios](https://github.com/orgs/Projeto-Frutas-Vegetais-Programa-K/repositories), vamos te apresentar nossa ideia e a(s) maneira(s) como ela foi abordada.
 
 Se tiver quaisquer dúvidas ou curiosidades, não hesite em entrar em [contato](https://github.com/Projeto-Frutas-Vegetais-Programa-K/.github/blob/main/profile/README.md#contato)
 
@@ -29,7 +31,7 @@ O próximo passo foi criar um grupo disposto a enfrentar esse desafio! A ideia f
 
 Segundo orientações dos tutores, decidimos tomar por base o seguinte artigo: [Real-Time Quality Assurance of Fruits and Vegetables with
 Artificial Intelligence](https://iopscience.iop.org/article/10.1088/1742-6596/2325/1/012055/pdf).
-Depois de muita conversa em algumas reuniões, chegamos a conclusão de que esse projeto pode ser repartido em 2 partes principais: o [Mobile]() e a [Inteligência Antificial]().
+Depois de muita conversa em algumas reuniões, chegamos a conclusão de que esse projeto pode ser repartido em 2 partes principais: o [Mobile](https://github.com/Projeto-Frutas-Vegetais-Programa-K/.github/tree/main/profile#mobile) e a [Inteligência Antificial](https://github.com/Projeto-Frutas-Vegetais-Programa-K/.github/tree/main/profile#inteligência-artificial).
 
 Sabendo disso, nosso grupo decidiu o 1º passo: realizar 2 INSTRUCTIONs (isso é, uma busca por "instrução", uma pesquisa e aprendizado sobre o necessário) em paralelo - um para cada parte do projeto.
 
@@ -39,12 +41,12 @@ Uma questão interessante a se considerar é que o grupo não tinha conhecimento
 
 ### Inteligência Artificial
 
-A primeira pergunta a se fazer é: Por que usar Inteligência Artificial? (para simplificação, vamos nos referir como IA)
+> A primeira pergunta a se fazer é: Por que usar Inteligência Artificial? (para simplificação, vamos nos referir como IA)
 
 O motivo é simples: ao se determinar a qualidade de frutas e vegetais, muitas pessoas usam técnicas diferentes, algumas vezes baseadas em intuição ou em características que não podem ser abstraídas de uma foto (como o fato de a fruta estar mole por exemplo). Considerando essa "dependência" da situação, seria complexo criar uma solução "universal" que determinasse com acertividade a qualidade desse alimento para o consumo.
 Uma das maiores capacidades da IA é a abstração. Sabemos que as Redes Neurais se saem bem em diversos problemas complexos, mas não sabemos exatamente quais características os modelos identificam nos dados. Dessa forma, o grupo acreditou que a capacidade de abstração da IA seria suficiente para uma solução confiável do problema descrito.
 
-Uma vez decidido isto, devemos seguir para a próxima questão: Por que a ResNet e a Inception? 
+> Uma vez decidido isto, devemos seguir para a próxima questão: Por que a ResNet e a Inception? 
 
 Relembrando o tópico anterior, escolhemos um artigo para nos basear. [Neste artigo](https://iopscience.iop.org/article/10.1088/1742-6596/2325/1/012055/pdf), o melhor desempenho foi alcançado por Redes Neurais Convolucionais (do inglês, CNN - Convolutional Neural Networks, é como nos referiremos à elas a partir de agora). Dessa maneira, escolhemos seguir com 2 CNNs. Em seguida, fizemos pesquisas e escolhemos os modelos a serem usados, pois eram CNNs famosas e que dispunham de vasta documentação para consulta.
 
